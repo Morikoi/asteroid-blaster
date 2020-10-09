@@ -4,4 +4,10 @@
 
 ## Proposal
 
-<!-- Share the proposed changes, or go ahead with creating a new merge request and 
+<!-- Share the proposed changes, or go ahead with creating a new merge request and linking it here. -->
+
+## Resources
+
+## Tasks
+
+- [ ] .
