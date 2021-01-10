@@ -79,3 +79,52 @@ $ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material bui
 ### Add items to topics 
 
 For adding tools and projects, follow the existing structure.
+
+```
+### 
+
+- [Website]()
+- [Documentation]()
+
+#### Facts
+
+- []()
+
+#### Hot Topics 
+```
+
+Example from [topics/metrics.md](topics/metrics.md).
+
+```
+## Tools
+
+### Prometheus 
+
+- [Website](https://prometheus.io/)
+- [Documentation](https://prometheus.io/docs/introduction/overview/)
+
+#### Facts
+
+- Started in 2012
+- [Open Source](https://github.com/prometheus)
+- [CNCF graduated project in 2018](https://www.cncf.io/announcements/2018/08/09/prometheus-graduates/)
+
+#### Hot Topics 
+
+- [PromQL](https://prometheus.io/docs/prometheus/latest/querying/basics/) query language.
+- [Metric Types](https://prometheus.io/docs/concepts/metric_types/)
+- [Exporters](https://prometheus.io/docs/instrumenting/exporters/) where Prometheus can scrape metrics from.
+- [Instrumentation](https://prometheus.io/docs/instrumenting/clientlibs/) for your app source, exposing `/metrics`. 
+```
+
+### Add new topics
+
+Consider copying an existing topic, and add it to the menu in the `mkdocs.yml` file. 
+
+### Add Learning Resources
+
+When adding a training resource, please ensure that you have taken the training, and can recommend the training by adding your name to the table. 
+
+### Tips
+
+#### Embed Youtube videos in Markdown with a preview image
