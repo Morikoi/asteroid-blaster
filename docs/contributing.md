@@ -128,3 +128,9 @@ When adding a training resource, please ensure that you have taken the training,
 ### Tips
 
 #### Embed Youtube videos in Markdown with a preview image
+
+```
+[![ALT text](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
+[![ALT text](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID&t=YOUTUBE_START_TIMEs)
+```
