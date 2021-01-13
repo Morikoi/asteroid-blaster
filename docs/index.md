@@ -1,3 +1,3 @@
 # o11y.love - learn Observability
 
-Getting st
+Getting started with Observability, or looking for new id
