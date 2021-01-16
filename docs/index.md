@@ -1,3 +1,3 @@
 # o11y.love - learn Observability
 
-Getting started with Observability, or looking for new ideas for your own environments? There are so ma
+Getting started with Observability, or looking for new ideas for your own environments? There are so many great resources out there - you've come to a place try
