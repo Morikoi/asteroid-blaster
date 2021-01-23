@@ -4,4 +4,4 @@ Getting started with Observability, or looking for new ideas for your own enviro
 
 ## Introduction
 
-o11y.love is
+o11y.love is a collection of helpful URLs and tutoria
