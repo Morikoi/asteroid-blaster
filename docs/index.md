@@ -4,4 +4,4 @@ Getting started with Observability, or looking for new ideas for your own enviro
 
 ## Introduction
 
-o11y.love is a collection of helpful URLs and tutorials, originally started by Michael Friedrich, 
+o11y.love is a collection of helpful URLs and tutorials, originally started by Michael Friedrich, [@dnsmichi](https://twitter.com/dnsmich
