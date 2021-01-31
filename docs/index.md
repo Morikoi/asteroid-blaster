@@ -4,4 +4,6 @@ Getting started with Observability, or looking for new ideas for your own enviro
 
 ## Introduction
 
-o11y.love is a collection of helpful URLs and tutorials, originally started by Michael Friedrich, [@dnsmichi](https://twitter.com/dnsmichi) in January 2022. Created for and maintained by the 
+o11y.love is a collection of helpful URLs and tutorials, originally started by Michael Friedrich, [@dnsmichi](https://twitter.com/dnsmichi) in January 2022. Created for and maintained by the community. 
+
+`o11y` is a numeronym similar to `k
