@@ -10,4 +10,4 @@ o11y.love is a collection of helpful URLs and tutorials, originally started by M
 
 ### What is Observability
 
-Over the years, many definitions were explained, discussed and created. [
+Over the years, many definitions were explained, discussed and created. [Michael Friedrich](https://dnsmichi.at/about/
