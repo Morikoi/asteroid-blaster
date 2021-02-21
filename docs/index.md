@@ -10,4 +10,4 @@ o11y.love is a collection of helpful URLs and tutorials, originally started by M
 
 ### What is Observability
 
-Over the years, ma
+Over the years, many definitions were explained, discussed and created. [
