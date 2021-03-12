@@ -12,4 +12,4 @@ o11y.love is a collection of helpful URLs and tutorials, originally started by M
 
 Over the years, many definitions were explained, discussed and created. [Michael Friedrich](https://dnsmichi.at/about/), maintainer of this platform, says:
 
-> Modern application development and deployment with microservices and cloud-native technologies require a new
+> Modern application development and deployment with microservices and cloud-native technologies require a new approach beyond traditional metrics 
