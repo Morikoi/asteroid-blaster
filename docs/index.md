@@ -14,4 +14,6 @@ Over the years, many definitions were explained, discussed and created. [Michael
 
 > Modern application development and deployment with microservices and cloud-native technologies require a new approach beyond traditional metrics monitoring. 
 >
-> Collecting all types of events helps answer known questions, a
+> Collecting all types of events helps answer known questions, and identify unknown unknowns. 
+>
+> Who knew that a
