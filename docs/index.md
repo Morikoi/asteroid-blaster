@@ -16,4 +16,4 @@ Over the years, many definitions were explained, discussed and created. [Michael
 >
 > Collecting all types of events helps answer known questions, and identify unknown unknowns. 
 >
-> Who knew that a
+> Who knew that a DNS response latency in CI/CD pipelines caus
