@@ -19,4 +19,4 @@ Over the years, many definitions were explained, discussed and created. [Michael
 > Who knew that a DNS response latency in CI/CD pipelines caused the deployment cost to rise significantly? This describes Observability, and how it can help reduce infrastructure costs.
 
 
-Ted Youn
+Ted Young explains the motivation, rights and wrongs (3 pillars
