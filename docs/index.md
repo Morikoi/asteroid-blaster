@@ -21,4 +21,4 @@ Over the years, many definitions were explained, discussed and created. [Michael
 
 Ted Young explains the motivation, rights and wrongs (3 pillars), and which data we are looking at and correlating, in the first video on the future of Observability and OpenTelemetry. A great introduction to watch and learn :)
 
-[![OpenTelemetry and the future of Observabil
+[![OpenTelemetry and the future of Observability, part 1](https://img.youtube.com/vi/pLPMAAOSxSE/
