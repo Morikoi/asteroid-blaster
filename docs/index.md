@@ -23,4 +23,8 @@ Ted Young explains the motivation, rights and wrongs (3 pillars), and which data
 
 [![OpenTelemetry and the future of Observability, part 1](https://img.youtube.com/vi/pLPMAAOSxSE/0.jpg)](https://youtu.be/pLPMAAOSxSE)
 
-There are more definitions and tools to 
+There are more definitions and tools to dive into.
+
+## Resources on o11y.love 
+
+> Pleas
