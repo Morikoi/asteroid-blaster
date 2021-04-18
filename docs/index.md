@@ -27,4 +27,4 @@ There are more definitions and tools to dive into.
 
 ## Resources on o11y.love 
 
-> Pleas
+> Please note that we endorse free learning resources
