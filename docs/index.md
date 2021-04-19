@@ -27,4 +27,4 @@ There are more definitions and tools to dive into.
 
 ## Resources on o11y.love 
 
-> Please note that we endorse free learning resources and try to keep o11y.love informal only, no adve
+> Please note that we endorse free learning resources and try to keep o11y.love informal only, no advertisements or product preferences. Tools and name
