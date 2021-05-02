@@ -27,4 +27,6 @@ There are more definitions and tools to dive into.
 
 ## Resources on o11y.love 
 
-> Please note that we endorse free learning resources and try to keep o11y.love informal only, no advertisements or product preferences. Tools and names are sorted in alpha numeric order. Missing a tool or want to provide feedback? See [Contribu
+> Please note that we endorse free learning resources and try to keep o11y.love informal only, no advertisements or product preferences. Tools and names are sorted in alpha numeric order. Missing a tool or want to provide feedback? See [Contributing](contributing.md). 
+
+o11y.love is inspired by am
