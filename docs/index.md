@@ -31,4 +31,5 @@ There are more definitions and tools to dive into.
 
 o11y.love is inspired by amazing community resources:
 
-- [o11y.news](https://o11y.news) created by [Michael
+- [o11y.news](https://o11y.news) created by [Michael Hausenblas](https://twitter.com/mhausenblas) 
+- 
