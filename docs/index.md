@@ -36,4 +36,5 @@ o11y.love is inspired by amazing community resources:
 
 ### Topics
 
-- [Collect
+- [Collections/Specs](topics/collections-specs.md)
+- [
