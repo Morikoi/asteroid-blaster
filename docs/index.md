@@ -38,4 +38,5 @@ o11y.love is inspired by amazing community resources:
 
 - [Collections/Specs](topics/collections-specs.md)
 - [Metrics](topics/metrics.md)
-- [Tracing](topics/
+- [Tracing](topics/tracing.md)
+- [Logs/Events](topics/logs-ev
