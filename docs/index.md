@@ -37,4 +37,5 @@ o11y.love is inspired by amazing community resources:
 ### Topics
 
 - [Collections/Specs](topics/collections-specs.md)
-- [
+- [Metrics](topics/metrics.md)
+- [Tracing](topics/
