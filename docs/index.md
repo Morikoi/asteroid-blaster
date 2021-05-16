@@ -42,3 +42,6 @@ o11y.love is inspired by amazing community resources:
 - [Logs/Events](topics/logs-events.md)
 - [Profiling](topics/profiling.md)
 
+and much more ...
+
+- [Chaos Engineering](topics/ch
