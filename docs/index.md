@@ -44,4 +44,5 @@ o11y.love is inspired by amazing community resources:
 
 and much more ...
 
-- [Chaos Engineering](topics/ch
+- [Chaos Engineering](topics/chaos-engineering.md)
+- [Service Level Objective (SLO)](top
