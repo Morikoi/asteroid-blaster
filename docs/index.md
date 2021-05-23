@@ -45,4 +45,5 @@ o11y.love is inspired by amazing community resources:
 and much more ...
 
 - [Chaos Engineering](topics/chaos-engineering.md)
-- [Service Level Objective (SLO)](top
+- [Service Level Objective (SLO)](topics/slo.md)
+- [Site Reliability Engineering (SRE)](
