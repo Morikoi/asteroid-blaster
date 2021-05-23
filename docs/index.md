@@ -46,4 +46,8 @@ and much more ...
 
 - [Chaos Engineering](topics/chaos-engineering.md)
 - [Service Level Objective (SLO)](topics/slo.md)
-- [Site Reliability Engineering (SRE)](
+- [Site Reliability Engineering (SRE)](topics/sre.md)
+- [Platforms](topics/platforms.md)
+
+
+### U
