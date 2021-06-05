@@ -52,4 +52,5 @@ and much more ...
 
 ### Use Cases
 
-[Use cases](use-cases.md) provide more Observability scenarios, best practices, and more. They are wa
+[Use cases](use-cases.md) provide more Observability scenarios, best practices, and more. They are waiting for [your stories](contributing.md) :)
+
