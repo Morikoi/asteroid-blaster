@@ -54,3 +54,6 @@ and much more ...
 
 [Use cases](use-cases.md) provide more Observability scenarios, best practices, and more. They are waiting for [your stories](contributing.md) :)
 
+### Learning Resources
+
+[Learning Resources]
