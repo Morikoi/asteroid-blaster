@@ -56,4 +56,6 @@ and much more ...
 
 ### Learning Resources
 
-[Learning Resources](learning-resources.md) include newsletter
+[Learning Resources](learning-resources.md) include newsletters, meetups, trainings & workshops and more. 
+
+## Contributi
