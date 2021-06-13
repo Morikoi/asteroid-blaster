@@ -58,4 +58,6 @@ and much more ...
 
 [Learning Resources](learning-resources.md) include newsletters, meetups, trainings & workshops and more. 
 
-## Contributi
+## Contributing
+
+Add your knowledge and follow our [Contribut
