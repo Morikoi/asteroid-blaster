@@ -56,4 +56,4 @@ and much more ...
 
 ### Learning Resources
 
-[Learning Resources]
+[Learning Resources](learning-resources.md) include newsletter
