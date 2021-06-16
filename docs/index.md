@@ -62,4 +62,6 @@ and much more ...
 
 Add your knowledge and follow our [Contributing](contributing.md) guide. 
 
-## Lic
+## License
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge
