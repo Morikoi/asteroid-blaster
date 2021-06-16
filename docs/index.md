@@ -60,4 +60,6 @@ and much more ...
 
 ## Contributing
 
-Add your knowledge and follow our [Contribut
+Add your knowledge and follow our [Contributing](contributing.md) guide. 
+
+## Lic
