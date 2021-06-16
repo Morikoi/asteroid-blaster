@@ -64,4 +64,4 @@ Add your knowledge and follow our [Contributing](contributing.md) guide.
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https:
