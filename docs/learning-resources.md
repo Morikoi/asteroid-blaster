@@ -108,3 +108,23 @@ Past talks:
 
 - [SLOconf Monthly](https://www.meetup.com/sloconf-monthly/), former SRE meetup. 
 - [#EveryoneCanContribute cafe meetup](https://everyonecancontribute.com/)
+    - [54. #EveryoneCanContribute Cafe: Pixie for Kubernetes Observability](https://everyonecancontribute.com/post/2022-09-13-cafe-54-pixie-for-kubernetes-observability/)
+    - [52. #EveryoneCanContribute Cafe: Learned at KubeCon EU, feat. Cilium Tetragon first try](https://everyonecancontribute.com/post/2022-06-16-cafe-52-learned-at-kubecon-eu-coffee-chat/)
+    - [47. cafe: Observability, quo vadis](https://everyonecancontribute.com/post/2022-01-18-cafe-47-observability-quo-vadis/)
+    - [32. cafe: Continuous Profiling with Polar Signals](https://everyonecancontribute.com/post/2021-06-02-cafe-32-polar-signals-continuous-profiling/)
+    - [30. cafe: Kubernetes Monitoring with Prometheus](https://everyonecancontribute.com/post/2021-05-19-cafe-30-kubernetes-monitoring-prometheus/)
+    - [25. cafe: Observability with Opstrace](https://everyonecancontribute.com/post/2021-04-14-cafe-25-opstrace-observability/)
+    - [7. cafe: Docker Hub Rate Limit: Mitigation, Caching and Monitoring](https://everyonecancontribute.com/post/2020-11-04-cafe-7-docker-hub-rate-limit-monitoring/)
+    - [6. cafe: Grafana Tempo](https://everyonecancontribute.com/post/2020-10-28-cafe-6-grafana-tempo/)
+    - [1. cafe: QuestDB](https://everyonecancontribute.com/post/2020-09-23-cafe-1/)
+
+
+## Trainings
+
+There are many ways to learn, and also define Observability. This list is not exhaustive, a recommendation by individuals who have taken the trainings is preferred prior to adding a new entry. 
+
+| Training | Vendor | Topics | Recommended by |
+|----------|--------|--------|----------------|
+| [Prometheus Trainings](https://training.promlabs.com/) | PromLabs | Prometheus, App instrumentation, Kubernetes | [@dnsmichi](https://twitter.com/dnsmichi) | 
+
+
