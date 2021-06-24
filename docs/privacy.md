@@ -75,3 +75,51 @@ We use Cookies and similar tracking technologies to track the activity on Our Se
 Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. You can learn more about cookies here: [Cookies by TermsFeed Generator](https://www.termsfeed.com/privacy-policy-generator/#faq-8).
 
 We use both Session and Persistent Cookies for the purposes set out below:
+
+- __Necessary / Essential Cookies__
+
+	Type: Session Cookies
+
+	Administered by: Us
+
+	Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
+- __Cookies Policy / Notice Acceptance Cookies__
+
+	Type: Persistent Cookies
+
+	Administered by: Us
+
+	Purpose: These Cookies identify if users have accepted the use of cookies on the Website.
+- __Functionality Cookies__
+
+	Type: Persistent Cookies
+
+	Administered by: Us
+
+	Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+
+For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
+
+
+## Use of Your Personal Data
+
+The Company may use Personal Data for the following purposes:
+
+- __To provide and maintain our Service__, including to monitor the usage of our Service.
+- __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+- __For the performance of a contract:__ the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+- __To contact You:__ To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+- __To provide You__ with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+- __To manage Your requests:__ To attend and manage Your requests to Us.
+
+- __For business transfers:__ We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+- __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. 
+
+We may share Your personal information in the following situations:
+
+- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
+- __For business transfers:__ We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+- __With Affiliates:__ We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+- __With business partners:__ We may share Your information with Our business partners to offer You certain products, services or promotions.
+- __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
+- __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
