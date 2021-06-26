@@ -2,4 +2,7 @@
 
 /* Unordered list <ul> symbols:
  * - level 2 is hollow circle
- * - level 3 is fi
+ * - level 3 is filled square
+ * - ul default is filled disc (bullet)
+ */
+ article ul 
