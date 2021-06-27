@@ -39,3 +39,14 @@ Observability with [metrics](../metrics), [tracing](../tracing), [logs/events](.
 ### Litmus Chaos 
 
 Litmus helps SREs and developers practice chaos engineering in a Cloud-native way.
+
+- [Website](https://litmuschaos.io/)
+- [Documentation](https://docs.litmuschaos.io/)
+
+#### Facts
+
+- Litmus is a [CNCF project](https://www.cncf.io/projects/litmus/), and was approved to [incubating in Jan 2022](https://www.cncf.io/blog/2022/01/11/litmuschaos-becomes-a-cncf-incubating-project/).
+
+#### Hot Topics 
+
+- [ChaosHub](https://hub.litmuschaos.io)
