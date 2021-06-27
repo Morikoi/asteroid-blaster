@@ -5,4 +5,7 @@
  * - level 3 is filled square
  * - ul default is filled disc (bullet)
  */
- article ul 
+ article ul ul {
+    list-style-type:  circle !important;
+}
+
