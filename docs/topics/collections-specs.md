@@ -24,3 +24,19 @@ Moved [here](opentelemetry.md).
 - [Prometheus](../metrics#prometheus) supports OpenMetrics 
 
 #### Hot Topics 
+
+- [What You Need to Know About OpenMetrics](https://www.youtube.com/watch?v=C-BJAzCiMyY) at KubeCon EU 2020
+
+### OpenSLO
+
+> OpenSLO is a service level objective (SLO) language that declaratively defines reliability and performance targets using a simple YAML specification.
+
+The project provides specification, tools, and more tools. 
+
+- [Website](https://openslo.com/)
+
+#### Facts
+
+- A specification makes it easier to integrate and deploy common tools. 
+
+#### Hot Topics
