@@ -5,4 +5,4 @@
 > Instead of relying on static counters and gauges exposed by the operating system, eBPF enables the collection & in-kernel aggregation of custom metrics and generation of visibility events based on a wide range of possible sources. 
 
 - [ebpf.io](https://ebpf.io/)
-    - [Infrastruct
+    - [Infrastructure](https://ebpf.io/infrastructure) including the Linux 
