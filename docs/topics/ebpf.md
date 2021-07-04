@@ -6,4 +6,6 @@
 
 - [ebpf.io](https://ebpf.io/)
     - [Infrastructure](https://ebpf.io/infrastructure) including the Linux Kernel, Compilers (LLVM, gcc), Libraries (Go, C/C++, Rust)
-    - [Applicat
+    - [Applications](https://ebpf.io/applications)
+
+## Projec
