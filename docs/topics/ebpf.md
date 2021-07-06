@@ -8,4 +8,8 @@
     - [Infrastructure](https://ebpf.io/infrastructure) including the Linux Kernel, Compilers (LLVM, gcc), Libraries (Go, C/C++, Rust)
     - [Applications](https://ebpf.io/applications)
 
-## Projec
+## Projects
+
+### Observability
+
+- [Pixie](https://px.dev/),
