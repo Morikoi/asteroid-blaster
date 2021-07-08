@@ -12,4 +12,4 @@
 
 ### Observability
 
-- [Pixie](https://px.dev/),
+- [Pixie](https://px.dev/), Kubernetes observability for developers, auto-inst
