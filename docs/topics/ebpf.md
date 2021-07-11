@@ -13,4 +13,4 @@
 ### Observability
 
 - [Pixie](https://px.dev/), Kubernetes observability for developers, auto-instrumented, scriptable.   
-- [Coroot](htt
+- [Coroot](https://coroot.com/), Kubernetes Observability, impl
