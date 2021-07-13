@@ -13,4 +13,5 @@
 ### Observability
 
 - [Pixie](https://px.dev/), Kubernetes observability for developers, auto-instrumented, scriptable.   
-- [Coroot](https://coroot.com/), Kubernetes Observability, impl
+- [Coroot](https://coroot.com/), Kubernetes Observability, implements service maps using eBPF. 
+- [Parca](http
