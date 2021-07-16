@@ -15,4 +15,5 @@
 - [Pixie](https://px.dev/), Kubernetes observability for developers, auto-instrumented, scriptable.   
 - [Coroot](https://coroot.com/), Kubernetes Observability, implements service maps using eBPF. 
 - [Parca](https://www.parca.dev/), Continuous Profiling 
-- [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter), Pro
+- [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter), Prometheus exporter for custom eBPF metrics 
+- [OpenTel
