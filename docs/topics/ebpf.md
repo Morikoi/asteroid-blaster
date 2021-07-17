@@ -16,4 +16,4 @@
 - [Coroot](https://coroot.com/), Kubernetes Observability, implements service maps using eBPF. 
 - [Parca](https://www.parca.dev/), Continuous Profiling 
 - [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter), Prometheus exporter for custom eBPF metrics 
-- [OpenTelemetry eBPF Collectors](https://github.com/open-telemetry/opentelemetry-ebpf), low level kernel 
+- [OpenTelemetry eBPF Collectors](https://github.com/open-telemetry/opentelemetry-ebpf), low level kernel telemetry data on a host Kernel, from the cloud 
