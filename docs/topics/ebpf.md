@@ -20,4 +20,5 @@
 
 ### Security 
 
-- [Cilium](https://cilium.io/), network 
+- [Cilium](https://cilium.io/), network connectivity security and observability
+    - 
