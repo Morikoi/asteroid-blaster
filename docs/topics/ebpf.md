@@ -21,4 +21,5 @@
 ### Security 
 
 - [Cilium](https://cilium.io/), network connectivity security and observability
-    - [Tetragon](https://github.com/cilium/tetrag
+    - [Tetragon](https://github.com/cilium/tetragon)
+- [Tracee](https://aquasecurity.gith
