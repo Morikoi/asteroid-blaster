@@ -27,4 +27,4 @@
 
 ### SRE/DevOps 
 
-- [Inspektor Gadget](https://www.inspektor-gadget.io/), A collection of eB
+- [Inspektor Gadget](https://www.inspektor-gadget.io/), A collection of eBPF-based gadgets to debug and inspect Kubernetes 
