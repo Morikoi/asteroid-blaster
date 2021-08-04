@@ -29,4 +29,4 @@
 
 - [Inspektor Gadget](https://www.inspektor-gadget.io/), A collection of eBPF-based gadgets to debug and inspect Kubernetes apps and resources 
 - [Caretta](https://github.com/groundcover-com/caretta), instant Kubernetes service dependency map in Grafana, using VictoriaMetrics as backend. 
-- [BumbleBee](https:
+- [BumbleBee](https://github.com/solo-io/bumblebee), build, run and distrib
