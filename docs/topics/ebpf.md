@@ -33,4 +33,4 @@
 
 ## Hot Topics
 
-- [The Power of eBPF for Cloud Native Systems](https://cybersecurity-magazine.com/the-power-of-ebpf-for-cloud-native-systems/) is a comprehensive deep-dive into cloud-native, IoT and Edge computing, a
+- [The Power of eBPF for Cloud Native Systems](https://cybersecurity-magazine.com/the-power-of-ebpf-for-cloud-native-systems/) is a comprehensive deep-dive into cloud-native, IoT and Edge computing, and ideas how to monetize eBPF. Suggest watching
