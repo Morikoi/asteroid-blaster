@@ -33,4 +33,4 @@
 
 ## Hot Topics
 
-- [The Power of eBPF for Cloud Native Systems](https:
+- [The Power of eBPF for Cloud Native Systems](https://cybersecurity-magazine.com/the-power-of-ebpf-for-cloud-na
