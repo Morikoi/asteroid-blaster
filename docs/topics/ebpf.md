@@ -34,4 +34,4 @@
 ## Hot Topics
 
 - [The Power of eBPF for Cloud Native Systems](https://cybersecurity-magazine.com/the-power-of-ebpf-for-cloud-native-systems/) is a comprehensive deep-dive into cloud-native, IoT and Edge computing, and ideas how to monetize eBPF. Suggest watching [Hello eBPF! Goodbye Sidecars](https://www.youtube.com/watch?v=ThtRT8dhu8c) by [Liz Rice](https://www.linkedin.com/in/lizrice/) as additional learning insight, and dive into [eBPF and its capabilities](https://medium.com/exness-blog/ebpf-and-its-capabilities-9a3a1dce3802). 
-- [Learn how eBPF can help minimize "observability tax"](https://c
+- [Learn how eBPF can help minimize "observability tax"](https://coroot.com/blog/minimizing-observab
