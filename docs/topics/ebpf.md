@@ -37,4 +37,4 @@
 - [Learn how eBPF can help minimize "observability tax"](https://coroot.com/blog/minimizing-observability-tax)
 - [eBPF: Why now, introduction and deep dive](https://whynowtech.substack.com/p/ebpf?sd=pf)
 - [eBPF report by Liz Rice](https://isovalent.com/ebpf/)
-- [Bypassing eBPF-based Security Enforcement Tools
+- [Bypassing eBPF-based Security Enforcement Tools](https://www.form3.tech/engineering/content/by
