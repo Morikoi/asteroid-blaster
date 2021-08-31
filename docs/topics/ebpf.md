@@ -41,4 +41,4 @@
 
 ## Learning Resources
 
-eBPF learnin
+eBPF learning story shared by Michael Friedrich in their talk 
