@@ -41,4 +41,4 @@
 
 ## Learning Resources
 
-eBPF learning story shared by Michael Friedrich in their talk 
+eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring to Observability: eBPF Chao
