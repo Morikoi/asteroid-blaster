@@ -41,4 +41,8 @@
 
 ## Learning Resources
 
-eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring to Observability: eBPF Chaos" at Config Management Camp 2023](https://go.g
+eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring to Observability: eBPF Chaos" at Config Management Camp 2023](https://go.gitlab.com/5vhjv1).
+
+### Newsletters
+
+- [eCH
