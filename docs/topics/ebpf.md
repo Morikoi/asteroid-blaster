@@ -46,4 +46,8 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 ### Newsletters
 
 - [eCHO newsletter](https://cilium.io/newsletter/)
-- [opsindev.news newsletter](https://opsindev
+- [opsindev.news newsletter](https://opsindev.news/)
+
+### Books and blog posts
+
+- [Learning eB
