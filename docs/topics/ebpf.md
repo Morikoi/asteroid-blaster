@@ -50,4 +50,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 ### Books and blog posts
 
-- [Learning eB
+- [Learning eBPF](https://www.oreilly.com/library/view/lear
