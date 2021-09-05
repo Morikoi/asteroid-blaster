@@ -50,4 +50,5 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 ### Books and blog posts
 
-- [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/) by [Liz Rice](https://www.linkedin.com/in/lizrice/), will be published in Ju
+- [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/) by [Liz Rice](https://www.linkedin.com/in/lizrice/), will be published in June 2023.
+- [BPF Performance Tools (Book)](http
