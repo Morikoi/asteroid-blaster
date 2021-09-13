@@ -52,4 +52,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 - [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/) by [Liz Rice](https://www.linkedin.com/in/lizrice/), will be published in June 2023.
 - [BPF Performance Tools (Book)](https://www.brendangregg.com/bpf-performance-tools-book.html)
-- [How we diagnosed and resolved 
+- [How we diagnosed and resolved Redis latency spikes with BPF and other tools](https
