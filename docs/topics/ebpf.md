@@ -52,4 +52,5 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 - [Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/) by [Liz Rice](https://www.linkedin.com/in/lizrice/), will be published in June 2023.
 - [BPF Performance Tools (Book)](https://www.brendangregg.com/bpf-performance-tools-book.html)
-- [How we diagnosed and resolved Redis latency spikes with BPF and other tools](https://about.gitlab.com/blog/2022/11/28/how-we-diagnosed-and-resolved-redis-latency-spikes/) is a thorough learning walkthrough from a problem, analysis, attempts, to final s
+- [How we diagnosed and resolved Redis latency spikes with BPF and other tools](https://about.gitlab.com/blog/2022/11/28/how-we-diagnosed-and-resolved-redis-latency-spikes/) is a thorough learning walkthrough from a problem, analysis, attempts, to final solutions. 
+- [BlackHat Arsenal 2022: Detecting Linu
