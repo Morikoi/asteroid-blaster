@@ -54,4 +54,9 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [BPF Performance Tools (Book)](https://www.brendangregg.com/bpf-performance-tools-book.html)
 - [How we diagnosed and resolved Redis latency spikes with BPF and other tools](https://about.gitlab.com/blog/2022/11/28/how-we-diagnosed-and-resolved-redis-latency-spikes/) is a thorough learning walkthrough from a problem, analysis, attempts, to final solutions. 
 - [BlackHat Arsenal 2022: Detecting Linux kernel rootkits with Aqua Tracee](https://www.youtube.com/watch?v=EATX8g3sh-0)
-- [Measuring CPU usage of eBPF programs with Inspektor Gadget](https://www.inspektor-gadget.io/blog/2022/10/measuring-cpu-usage-of-ebpf-programs-with-inspektor-
+- [Measuring CPU usage of eBPF programs with Inspektor Gadget](https://www.inspektor-gadget.io/blog/2022/10/measuring-cpu-usage-of-ebpf-programs-with-inspektor-gadget/)
+
+
+### Development 
+
+- 
