@@ -61,4 +61,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 - [Learning eBPF Tracing: Tutorials and Examples (2019)](https://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html) **recommended**
 - [bpftrace](https://github.com/iovisor/bpftrace#)
-- [bcc
+- [bcc (BPF Compiler Collection)](https://github.co
