@@ -69,4 +69,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 #### eBPF Libraries
 
-- [cilium/ebpf
+- [cilium/ebpf-go](https://github.com/cilium/ebpf) (Go) - [Use case
