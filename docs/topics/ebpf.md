@@ -64,4 +64,9 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [bcc (BPF Compiler Collection)](https://github.com/iovisor/bcc#bpf-compiler-collection-bcc)´
 - [libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap): Examples that provide different use cases, for example traffic monitoring using XDP, written in Rust. 
 - [An eBPF tutorial to try out the bpftrace framework](https://www.techtarget.com/searchitoperations/tutorial/An-eBPF-tutorial-to-try-out-the-bpftrace-framework)
-- [The art of writing eBPF programs: a primer.](https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/
+- [The art of writing eBPF programs: a primer.](https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/)
+
+
+#### eBPF Libraries
+
+- [cilium/ebpf
