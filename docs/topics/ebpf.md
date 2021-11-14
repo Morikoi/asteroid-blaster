@@ -73,4 +73,5 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo) (Go)
 - [libbpf](https://github.com/libbpf/libbpf) (C/C++)
     - [libbpf-rs](https://github.com/libbpf/libbpf-rs) (Rust)
-- [redbpf](https://g
+- [redbpf](https://github.com/foniod/redbpf) (Rust)
+- [aya-rs](https://g
