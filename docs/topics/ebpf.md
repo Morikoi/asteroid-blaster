@@ -72,4 +72,5 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [cilium/ebpf-go](https://github.com/cilium/ebpf) (Go) - [Use case examples](https://github.com/cilium/ebpf/tree/master/examples)
 - [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo) (Go)
 - [libbpf](https://github.com/libbpf/libbpf) (C/C++)
-    - [libbpf-rs](https://github.c
+    - [libbpf-rs](https://github.com/libbpf/libbpf-rs) (Rust)
+- [redbpf](https://g
