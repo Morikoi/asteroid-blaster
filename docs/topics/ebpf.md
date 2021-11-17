@@ -74,4 +74,5 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [libbpf](https://github.com/libbpf/libbpf) (C/C++)
     - [libbpf-rs](https://github.com/libbpf/libbpf-rs) (Rust)
 - [redbpf](https://github.com/foniod/redbpf) (Rust)
-- [aya-rs](https://g
+- [aya-rs](https://github.com/aya-rs/aya) (Rust)
+    - Used by the Pa
