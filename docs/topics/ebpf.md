@@ -79,4 +79,7 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 ### Platforms 
 
-- [Get started with eBPF using BumbleBee](https://www.solo.io/blog
+- [Get started with eBPF using BumbleBee](https://www.solo.io/blog/get-started-with-ebpf-using-bumblebee/)  
+
+## Events
+
