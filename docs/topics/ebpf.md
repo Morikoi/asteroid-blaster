@@ -83,4 +83,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 ## Events
 
-- [eBPF Summit 2022 summary in the opsindev.n
+- [eBPF Summit 2022 summary in the opsindev.news newsletter](https://opsindev.news/archive/2022-
