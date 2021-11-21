@@ -75,4 +75,8 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
     - [libbpf-rs](https://github.com/libbpf/libbpf-rs) (Rust)
 - [redbpf](https://github.com/foniod/redbpf) (Rust)
 - [aya-rs](https://github.com/aya-rs/aya) (Rust)
-    - Used by the Parca Agent to rewrite the in-Kernel C code in Rust for better memory safety. (PR, KubeCon 
+    - Used by the Parca Agent to rewrite the in-Kernel C code in Rust for better memory safety. (PR, KubeCon EU recording, slides))
+
+### Platforms 
+
+- [Get start
