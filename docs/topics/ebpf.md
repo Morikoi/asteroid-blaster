@@ -84,4 +84,8 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 ## Events
 
 - [eBPF Summit 2022 summary in the opsindev.news newsletter](https://opsindev.news/archive/2022-10-15/#ebpf-summit)
-- [eBPF day at KubeCon EU 2022, summary in the opsindev.news newsletter](https://opsindev.news/archive/20
+- [eBPF day at KubeCon EU 2022, summary in the opsindev.news newsletter](https://opsindev.news/archive/2022-06-13/#kubecon-eu)
+
+### Meetups 
+
+- [54
