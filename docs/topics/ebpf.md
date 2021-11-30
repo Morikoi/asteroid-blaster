@@ -88,4 +88,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 
 ### Meetups 
 
-- [54. #EveryoneCanContribute Cafe: Pixie for Kubernetes Observ
+- [54. #EveryoneCanContribute Cafe: Pixie for Kubernetes Observability](https://everyonecancontribute.com/post/2022-09-13-caf
