@@ -91,4 +91,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [54. #EveryoneCanContribute Cafe: Pixie for Kubernetes Observability](https://everyonecancontribute.com/post/2022-09-13-cafe-54-pixie-for-kubernetes-observability/)
 - [52. #EveryoneCanContribute Cafe: Learned at KubeCon EU, feat. Cilium Tetragon first try](https://everyonecancontribute.com/post/2022-06-16-cafe-52-learned-at-kubecon-eu-coffee-chat/)
 - [49. #EveryoneCanContribute Cafe: Aqua Security and Open Source](https://everyonecancontribute.com/post/2022-03-08-cafe-49-aqua-security-open-source/)
-- [42. #EveryoneCanContribute cafe: Falco and GitLab Package 
+- [42. #EveryoneCanContribute cafe: Falco and GitLab Package Hunter](https://everyonecancontribute.com/post/2021
