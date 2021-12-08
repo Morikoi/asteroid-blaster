@@ -92,4 +92,4 @@ eBPF learning story shared by Michael Friedrich in their talk ["From Monitoring 
 - [52. #EveryoneCanContribute Cafe: Learned at KubeCon EU, feat. Cilium Tetragon first try](https://everyonecancontribute.com/post/2022-06-16-cafe-52-learned-at-kubecon-eu-coffee-chat/)
 - [49. #EveryoneCanContribute Cafe: Aqua Security and Open Source](https://everyonecancontribute.com/post/2022-03-08-cafe-49-aqua-security-open-source/)
 - [42. #EveryoneCanContribute cafe: Falco and GitLab Package Hunter](https://everyonecancontribute.com/post/2021-08-11-cafe-42-falco-gitlab-package-hunter/)
-- [32. #EveryoneCanContribute cafe: Continuous Profiling with Polar Signals](https://everyonecan
+- [32. #EveryoneCanContribute cafe: Continuous Profiling with Polar Signals](https://everyonecancontribute.com/post/2021-06-02-cafe-32-polar-s
