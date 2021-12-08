@@ -1,3 +1,3 @@
 # Introduction
 
-Observability covers a variety of topics, from metrics, tra
+Observability covers a variety of topics, from metrics, traces, logs and profiling to collections/specs,
