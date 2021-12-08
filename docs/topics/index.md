@@ -2,4 +2,4 @@
 
 Observability covers a variety of topics, from metrics, traces, logs and profiling to collections/specs, SLOs, SRE, platforms.
 
-Navigate into the specif
+Navigate into the specific topics to learn more. :) 
