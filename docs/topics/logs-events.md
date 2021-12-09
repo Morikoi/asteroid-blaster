@@ -1,3 +1,3 @@
 # Logs/Events
 
-[Logging](https://e
+[Logging](https://en.wikipedia.org/wiki/Logging_(softwa
