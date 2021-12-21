@@ -10,4 +10,6 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 ### Fluentd
 
-> Fluentd is an open source data collector fo
+> Fluentd is an open source data collector for unified logging layer. 
+
+- [Website](https://www.fluen
