@@ -15,4 +15,6 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 - [Website](https://www.fluentd.org/)
 - [Documentation](https://docs.fluentd.org/)
 
-####
+#### Facts
+
+- Fluentd is an open source data collecto
