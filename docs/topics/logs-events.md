@@ -18,4 +18,5 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 #### Facts
 
 - Fluentd is an open source data collector for unified logging layer.
-- [CNCF project since 2016]
+- [CNCF project since 2016](https://www.cncf.io/projects/fluentd/)
+- [Open Source](http
