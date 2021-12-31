@@ -22,3 +22,7 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 - [Open Source](https://github.com/fluent/fluentd)
 
 #### Hot Topics 
+
+### Grafana Loki
+
+> Loki is a log aggregation
