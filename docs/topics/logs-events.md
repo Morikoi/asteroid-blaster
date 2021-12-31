@@ -25,4 +25,4 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 ### Grafana Loki
 
-> Loki is a log aggregation
+> Loki is a log aggregation system designed to store and query logs
