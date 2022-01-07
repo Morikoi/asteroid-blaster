@@ -32,4 +32,4 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 #### Facts
 
-- Loki implements a similar query language like [PromQL](../metri
+- Loki implements a similar query language like [PromQL](../metrics#prometheus), allowing for log and metrics 
