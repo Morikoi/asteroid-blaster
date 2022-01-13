@@ -41,4 +41,6 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 - [Website](https://opensearch.org/)
 - [Documentation](https://opensearch.org/docs/latest)
 
-#### Fact
+#### Facts
+
+- [OpenSearch is an open-source fork of El
