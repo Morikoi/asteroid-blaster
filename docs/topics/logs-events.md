@@ -36,3 +36,7 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 #### Hot Topics 
 
+### OpenSearch
+
+- [Website](https://opensearch.org/)
+- [Do
