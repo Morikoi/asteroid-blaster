@@ -43,4 +43,6 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 #### Facts
 
-- [OpenSearch is an open-source fork of Elasticsearch and Kibana 7.10](https://aws.amazon
+- [OpenSearch is an open-source fork of Elasticsearch and Kibana 7.10](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
+
+####
