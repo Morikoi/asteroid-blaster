@@ -50,4 +50,4 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 ## Use Cases 
 
-- [Fast Logs Ingestion by Nicolas Fränkel](https://www.youtube.com/watch?v=DK9FM34YvXM) at OSDC 2019. Learn about structured logging and p
+- [Fast Logs Ingestion by Nicolas Fränkel](https://www.youtube.com/watch?v=DK9FM34YvXM) at OSDC 2019. Learn about structured logging and pitfalls with debug logging. 
