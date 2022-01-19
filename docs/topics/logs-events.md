@@ -50,4 +50,4 @@ Elastic, Splunk, etc. which provide an entire stack can be found in the [Platfor
 
 ## Use Cases 
 
-- [Fast Logs Ingestion by Ni
+- [Fast Logs Ingestion by Nicolas Fränkel](https://www.youtube.com/watch?v=DK9FM
