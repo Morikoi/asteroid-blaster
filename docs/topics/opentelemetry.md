@@ -11,4 +11,5 @@
 
 #### Facts
 
-- Bring your own backend. OpenTelemetry provide
+- Bring your own backend. OpenTelemetry provides the specification and collector only. 
+    -
