@@ -11,4 +11,4 @@
 
 #### Facts
 
-- Bring you
+- Bring your own backend. OpenTelemetry provide
