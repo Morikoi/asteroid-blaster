@@ -12,4 +12,4 @@
 #### Facts
 
 - Bring your own backend. OpenTelemetry provides the specification and collector only. 
-    - KubeCon NA 2021: [OpenTelemetry Collector Deploy
+    - KubeCon NA 2021: [OpenTelemetry Collector Deployment Patterns](https://www.youtube.co
