@@ -16,4 +16,6 @@
 - Support for traces, metrics, logs. 
 - [Prometheus vs. OpenTelemetry metrics](https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/)
 
-#### Hot To
+#### Hot Topics
+
+- [Observability with OpenTelemetry](http
