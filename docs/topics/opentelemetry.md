@@ -18,4 +18,4 @@
 
 #### Hot Topics
 
-- [Observability with OpenTelemetry](http
+- [Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/) is a gre
