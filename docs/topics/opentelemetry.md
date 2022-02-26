@@ -18,4 +18,4 @@
 
 #### Hot Topics
 
-- [Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/) is a great learning series by Thomas Stringer in 6 parts, covering [Introduction](https://trstringer.com/otel-part1-intro/), [Instrumentation](https://trstri
+- [Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/) is a great learning series by Thomas Stringer in 6 parts, covering [Introduction](https://trstringer.com/otel-part1-intro/), [Instrumentation](https://trstringer.com/otel-part2-instrumentation/), [Export
