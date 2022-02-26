@@ -18,4 +18,4 @@
 
 #### Hot Topics
 
-- [Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/) is a gre
+- [Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/) is a great learning series by Thomas Stringer in 6 par
