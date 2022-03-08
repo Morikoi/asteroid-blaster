@@ -21,4 +21,4 @@
 - [Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/) is a great learning series by Thomas Stringer in 6 parts, covering [Introduction](https://trstringer.com/otel-part1-intro/), [Instrumentation](https://trstringer.com/otel-part2-instrumentation/), [Exporting](https://trstringer.com/otel-part3-export/), [Collector](https://trstringer.com/otel-part4-collector/), [Propagation](https://trstringer.com/otel-part5-propagation/), [Ecosystem](https://trstringer.com/otel-part6-ecosystem/).
 - [Learn how to instrument an Apache HTTP Server with OpenTelemetry](https://opentelemetry.io/blog/2022/instrument-apache-httpd-server/)
 - [OpenTelemetry for Python Developers](https://www.youtube.com/watch?v=RJeJWdTGieM)
-- [Learn OpenTel
+- [Learn OpenTelemetry tracing using a lightweight microservice proje
