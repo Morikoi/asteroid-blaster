@@ -22,4 +22,5 @@
 - [Learn how to instrument an Apache HTTP Server with OpenTelemetry](https://opentelemetry.io/blog/2022/instrument-apache-httpd-server/)
 - [OpenTelemetry for Python Developers](https://www.youtube.com/watch?v=RJeJWdTGieM)
 - [Learn OpenTelemetry tracing using a lightweight microservice project](https://www.timescale.com/blog/learn-opentelemetry-tracing-with-this-lightweight-microservices-demo/)
-- Logz.io created a great learning series for OpenTele
+- Logz.io created a great learning series for OpenTelemetry getting started in various languages:
+   
