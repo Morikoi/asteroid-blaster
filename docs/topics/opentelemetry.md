@@ -23,4 +23,4 @@
 - [OpenTelemetry for Python Developers](https://www.youtube.com/watch?v=RJeJWdTGieM)
 - [Learn OpenTelemetry tracing using a lightweight microservice project](https://www.timescale.com/blog/learn-opentelemetry-tracing-with-this-lightweight-microservices-demo/)
 - Logz.io created a great learning series for OpenTelemetry getting started in various languages:
-   
+    - [Beginner's Guide to OpenTelemetry](https://logz.io/
