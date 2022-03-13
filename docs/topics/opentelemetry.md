@@ -24,4 +24,4 @@
 - [Learn OpenTelemetry tracing using a lightweight microservice project](https://www.timescale.com/blog/learn-opentelemetry-tracing-with-this-lightweight-microservices-demo/)
 - Logz.io created a great learning series for OpenTelemetry getting started in various languages:
     - [Beginner's Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
-    - [Auto-Instrumenting Ruby App
+    - [Auto-Instrumenting Ruby Apps with OpenTelemetry](https://logz.io/blog
