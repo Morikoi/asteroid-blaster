@@ -25,4 +25,4 @@
 - Logz.io created a great learning series for OpenTelemetry getting started in various languages:
     - [Beginner's Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
     - [Auto-Instrumenting Ruby Apps with OpenTelemetry](https://logz.io/blog/ruby-opentelemetry-auto-instrumentation/)
-    - [A
+    - [Auto-Instrumenting Python Apps with OpenTelemetr
