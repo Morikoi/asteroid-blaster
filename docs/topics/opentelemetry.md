@@ -26,4 +26,5 @@
     - [Beginner's Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
     - [Auto-Instrumenting Ruby Apps with OpenTelemetry](https://logz.io/blog/ruby-opentelemetry-auto-instrumentation/)
     - [Auto-Instrumenting Python Apps with OpenTelemetry](https://logz.io/blog/python-opentelemetry-auto-instrumentation/) 
-    - [Instrumentation for C# .NET Apps with OpenTelemetry](https://logz.io/blog/csharp-dotnet-opentelemetry-instrumentation
+    - [Instrumentation for C# .NET Apps with OpenTelemetry](https://logz.io/blog/csharp-dotnet-opentelemetry-instrumentation/)
+- [How auto-instrumentation can help](https://www.h
