@@ -27,4 +27,5 @@
     - [Auto-Instrumenting Ruby Apps with OpenTelemetry](https://logz.io/blog/ruby-opentelemetry-auto-instrumentation/)
     - [Auto-Instrumenting Python Apps with OpenTelemetry](https://logz.io/blog/python-opentelemetry-auto-instrumentation/) 
     - [Instrumentation for C# .NET Apps with OpenTelemetry](https://logz.io/blog/csharp-dotnet-opentelemetry-instrumentation/)
-- [How auto-instrumentation can help](https://www.honeycomb.io/blog/what-is-auto-instrumentation/)  
+- [How auto-instrumentation can help](https://www.honeycomb.io/blog/what-is-auto-instrumentation/)    
+- [CI/CD Observability: Tracing with OpenTelemetry](
