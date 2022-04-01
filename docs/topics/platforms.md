@@ -1,3 +1,3 @@
 # Platforms 
 
-A
+An Observability platform provides tools, method
