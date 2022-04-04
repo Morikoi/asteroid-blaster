@@ -15,4 +15,8 @@ An Observability platform provides tools, methods and workflows to consume by us
 
 #### Facts
 
-- Uses 
+- Uses OpenTelemetry. 
+
+#### Hot Topics 
+
+- [Aspecto's blo
