@@ -19,4 +19,5 @@ An Observability platform provides tools, methods and workflows to consume by us
 
 #### Hot Topics 
 
-- [Aspecto's blog](https://www.aspecto.io/blog/) We share everything we know about OpenTelemetry a
+- [Aspecto's blog](https://www.aspecto.io/blog/) We share everything we know about OpenTelemetry and o11y.
+- [Trace based Testing](https://github.co
