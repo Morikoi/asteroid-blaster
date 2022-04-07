@@ -20,4 +20,5 @@ An Observability platform provides tools, methods and workflows to consume by us
 #### Hot Topics 
 
 - [Aspecto's blog](https://www.aspecto.io/blog/) We share everything we know about OpenTelemetry and o11y.
-- [Trace based Testing](https://github.com/aspecto-io/malabi) A trace based testing open sou
+- [Trace based Testing](https://github.com/aspecto-io/malabi) A trace based testing open source by.
+- [OpenTelemetry Bootcamp](https://www.aspe
