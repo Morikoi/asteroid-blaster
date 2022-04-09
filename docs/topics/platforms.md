@@ -25,4 +25,6 @@ An Observability platform provides tools, methods and workflows to consume by us
 
 ### AWS
 
-AWS provides multiple services on their
+AWS provides multiple services on their platform: 
+
+- [Amazon Managed Gr
