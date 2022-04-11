@@ -27,4 +27,5 @@ An Observability platform provides tools, methods and workflows to consume by us
 
 AWS provides multiple services on their platform: 
 
-- [Amazon Managed Gr
+- [Amazon Managed Grafana](https://aws.amazon.com/grafana/)
+-
