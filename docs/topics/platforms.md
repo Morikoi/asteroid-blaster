@@ -28,4 +28,5 @@ An Observability platform provides tools, methods and workflows to consume by us
 AWS provides multiple services on their platform: 
 
 - [Amazon Managed Grafana](https://aws.amazon.com/grafana/)
-- [Amazon Managed Service for Prometheus](https://aws.amazon
+- [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)
+- [Amazon OpenSearch 
