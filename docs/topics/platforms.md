@@ -30,4 +30,4 @@ AWS provides multiple services on their platform:
 - [Amazon Managed Grafana](https://aws.amazon.com/grafana/)
 - [Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)
 - [Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)
-- [AWS Distro for OpenTelemetry](https://aws.amazon.com/otel/?otel-blogs.s
+- [AWS Distro for OpenTelemetry](https://aws.amazon.com/otel/?otel-blogs.sort-by=item.additionalFields.createdDate&o
