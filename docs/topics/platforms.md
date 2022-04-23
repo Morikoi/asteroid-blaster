@@ -38,4 +38,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [AWS Obse
+- [AWS Observability Recipes](https://aws-observability.g
