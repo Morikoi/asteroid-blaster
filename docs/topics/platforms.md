@@ -34,4 +34,8 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- Managed Service for Prometheus and Grafana was [launched in Dec 2020](https://twitter.com/rakyll/status/1338
+- Managed Service for Prometheus and Grafana was [launched in Dec 2020](https://twitter.com/rakyll/status/1338902037644206081)
+
+#### Hot Topics 
+
+- [AWS Obse
