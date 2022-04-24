@@ -39,4 +39,4 @@ AWS provides multiple services on their platform:
 #### Hot Topics 
 
 - [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
-- [Build an observability solution using managed AWS services and the Ope
+- [Build an observability solution using managed AWS services and the OpenTelemetry standard](https://aws.amazon.com/blogs/mt/
