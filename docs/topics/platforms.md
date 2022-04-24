@@ -38,4 +38,5 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [AWS Observability Recipes](https://aws-observability.g
+- [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
+- [Build an observability solut
