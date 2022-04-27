@@ -39,4 +39,8 @@ AWS provides multiple services on their platform:
 #### Hot Topics 
 
 - [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
-- [Build an observability solution using managed AWS services and the OpenTelemetry standard](https://aws.amazon.com/blogs/mt/build-an-observability-solution-using-managed-aws-services-and-the-opentelemetry-st
+- [Build an observability solution using managed AWS services and the OpenTelemetry standard](https://aws.amazon.com/blogs/mt/build-an-observability-solution-using-managed-aws-services-and-the-opentelemetry-standard/)
+
+### Datadog 
+
+- [Website](https://www.datadog
