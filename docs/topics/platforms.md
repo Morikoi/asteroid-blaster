@@ -43,4 +43,5 @@ AWS provides multiple services on their platform:
 
 ### Datadog 
 
-- [Website](https://www.datadog
+- [Website](https://www.datadoghq.com/)
+- [Documentation](https://docs.datadoghq.
