@@ -44,4 +44,8 @@ AWS provides multiple services on their platform:
 ### Datadog 
 
 - [Website](https://www.datadoghq.com/)
-- [Documentation](https://docs.datadoghq.
+- [Documentation](https://docs.datadoghq.com/)
+
+#### Facts
+
+- SaaS, free and pair tier.
