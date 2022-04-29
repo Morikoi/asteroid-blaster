@@ -49,4 +49,8 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - SaaS, free and pair tier.
-- [Agent is OSS](https://github.com/DataDog/data
+- [Agent is OSS](https://github.com/DataDog/datadog-agent)
+
+#### Hot Topics 
+
+- [CI Vis
