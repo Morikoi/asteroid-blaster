@@ -53,4 +53,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [CI Vis
+- [CI Visibility](https://www.datadoghq.com/product/ci-c
