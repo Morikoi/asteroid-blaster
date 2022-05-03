@@ -53,4 +53,8 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [CI Visibility](https://www.datadoghq.com/product/ci-c
+- [CI Visibility](https://www.datadoghq.com/product/ci-cd-monitoring/)
+
+### Dynatrace 
+
+- [Website](https://www.dy
