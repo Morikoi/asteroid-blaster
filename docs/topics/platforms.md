@@ -62,4 +62,4 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- [Dynatrace created Keptn for CI/CD quality gates and SLOs]
+- [Dynatrace created Keptn for CI/CD quality gates and SLOs](https://everyonecancontribute.com/post/2020-11
