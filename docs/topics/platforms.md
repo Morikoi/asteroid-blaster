@@ -58,4 +58,8 @@ AWS provides multiple services on their platform:
 ### Dynatrace 
 
 - [Website](https://www.dynatrace.com/)
-- [Documentation](https://www.dyna
+- [Documentation](https://www.dynatrace.com/support/help)
+
+#### Facts
+
+- [Dynatrace
