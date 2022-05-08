@@ -66,4 +66,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Open Observability: Distributed Tra
+- [Open Observability: Distributed Tracing and Observability](https://www.dynatrace.com/news/
