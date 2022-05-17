@@ -70,4 +70,5 @@ AWS provides multiple services on their platform:
 
 ### Elastic
 
-- [
+- [Website](https://www.elastic.co/)
+- [Documentation](htt
