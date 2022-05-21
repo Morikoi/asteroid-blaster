@@ -74,3 +74,5 @@ AWS provides multiple services on their platform:
 - [Documentation](https://www.elastic.co/guide/index.html)
 
 #### Facts
+
+- The `ELK stack` refers to Elasticsearch, 
