@@ -77,4 +77,4 @@ AWS provides multiple services on their platform:
 
 - The `ELK stack` refers to Elasticsearch, Logstash, Kibana as tools. 
 - Beats and agent collectors inspired the name change to `Elastic Stack`. 
-- Elast
+- Elastic [changed the Apache 2.0-licensed source code of E
