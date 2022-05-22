@@ -75,4 +75,5 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- The `ELK stack` refers to Elasticsearch, 
+- The `ELK stack` refers to Elasticsearch, Logstash, Kibana as tools. 
+- Beats and agent collectors inspired t
