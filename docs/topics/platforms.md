@@ -78,4 +78,4 @@ AWS provides multiple services on their platform:
 - The `ELK stack` refers to Elasticsearch, Logstash, Kibana as tools. 
 - Beats and agent collectors inspired the name change to `Elastic Stack`. 
 - Elastic [changed the Apache 2.0-licensed source code of Elasticsearch and Kibana](https://www.elastic.co/pricing/faq/licensing) to proprietary Elastic license or SSPL in 2021. 
-- Elastic APM is
+- Elastic APM is included in [Elastic Observability](https://www.elas
