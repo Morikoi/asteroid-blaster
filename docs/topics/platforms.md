@@ -81,3 +81,5 @@ AWS provides multiple services on their platform:
 - Elastic APM is included in [Elastic Observability](https://www.elastic.co/observability). 
 
 #### Hot Topics 
+
+- [Real User Monitoring (RUM)](https://www.ela
