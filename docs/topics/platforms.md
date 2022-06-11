@@ -86,4 +86,5 @@ AWS provides multiple services on their platform:
 
 ### Google Cloud Operations
 
-- [Website](https
+- [Website](https://cloud.google.com/products/operations)
+-
