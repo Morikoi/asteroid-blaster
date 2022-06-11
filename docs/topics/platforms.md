@@ -83,3 +83,7 @@ AWS provides multiple services on their platform:
 #### Hot Topics 
 
 - [Real User Monitoring (RUM)](https://www.elastic.co/guide/en/apm/get-started/current/rum.html)
+
+### Google Cloud Operations
+
+- [Website](https
