@@ -87,4 +87,8 @@ AWS provides multiple services on their platform:
 ### Google Cloud Operations
 
 - [Website](https://cloud.google.com/products/operations)
-- [Documentation](https://cloud.google.com
+- [Documentation](https://cloud.google.com/products/operations#section-4) 
+
+#### Facts
+
+- [Suppo
