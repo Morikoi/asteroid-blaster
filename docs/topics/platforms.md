@@ -91,4 +91,4 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- [Suppo
+- [Supports OpenTelemetry](https://cloud.google.com/learn
