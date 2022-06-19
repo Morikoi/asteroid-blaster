@@ -95,4 +95,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Google don
+- [Google donated Sqlcomment to OpenTelemetry](https://devops.com/g
