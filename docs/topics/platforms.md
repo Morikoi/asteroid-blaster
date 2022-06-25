@@ -95,4 +95,8 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Google donated Sqlcomment to OpenTelemetry](https://devops.com/google-donates-sqlcommenter-to-opentelemetry-project/) in Sep 2021. This helps to correlate application and database 
+- [Google donated Sqlcomment to OpenTelemetry](https://devops.com/google-donates-sqlcommenter-to-opentelemetry-project/) in Sep 2021. This helps to correlate application and database telemetry.
+
+### Grafana 
+
+- [Website](https://grafana.
