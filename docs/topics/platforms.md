@@ -102,4 +102,6 @@ AWS provides multiple services on their platform:
 - [Website](https://grafana.com/)
 - [Documentation](https://grafana.com/docs/)
 
-##
+#### Facts
+
+- Grafana evolved from a metric
