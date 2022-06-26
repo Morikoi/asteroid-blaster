@@ -99,4 +99,7 @@ AWS provides multiple services on their platform:
 
 ### Grafana 
 
-- [Website](https://grafana.
+- [Website](https://grafana.com/)
+- [Documentation](https://grafana.com/docs/)
+
+##
