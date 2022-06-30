@@ -104,4 +104,4 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- Grafana evolved from a metric
+- Grafana evolved from a metrics dashboard to a platform with many data sour
