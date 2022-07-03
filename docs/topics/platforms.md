@@ -105,4 +105,5 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - Grafana evolved from a metrics dashboard to a platform with many data sources, plugins and dashboards
-- The [Grafana agent code](https://twitter.com/gehrcke/status/1455509846049054722?s=20) was contributed to create the Prometheus agent. Le
+- The [Grafana agent code](https://twitter.com/gehrcke/status/1455509846049054722?s=20) was contributed to create the Prometheus agent. Learn more about [Metrics](../metrics).
+- [Gra
