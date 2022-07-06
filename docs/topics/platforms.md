@@ -107,4 +107,6 @@ AWS provides multiple services on their platform:
 - Grafana evolved from a metrics dashboard to a platform with many data sources, plugins and dashboards
 - The [Grafana agent code](https://twitter.com/gehrcke/status/1455509846049054722?s=20) was contributed to create the Prometheus agent. Learn more about [Metrics](../metrics).
 - [Grafana is a fork of Kibana 3](https://grafana.com/blog/2019/09/03/the-mostly-complete-history-of-grafana-ux/)
-- [Grafana Labs changed the license to AGPLv3 for Grafana, Loki, and Tempo](https://www.infoq.com/news/2021/04/gra
+- [Grafana Labs changed the license to AGPLv3 for Grafana, Loki, and Tempo](https://www.infoq.com/news/2021/04/grafana-licence-agpl/) in April 2021
+
+#### Hot 
