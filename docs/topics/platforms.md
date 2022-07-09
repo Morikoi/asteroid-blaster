@@ -109,4 +109,6 @@ AWS provides multiple services on their platform:
 - [Grafana is a fork of Kibana 3](https://grafana.com/blog/2019/09/03/the-mostly-complete-history-of-grafana-ux/)
 - [Grafana Labs changed the license to AGPLv3 for Grafana, Loki, and Tempo](https://www.infoq.com/news/2021/04/grafana-licence-agpl/) in April 2021
 
-#### Hot 
+#### Hot Topics 
+
+- [A beginner's guide to network monito
