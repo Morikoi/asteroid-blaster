@@ -111,4 +111,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [A beginner's guide to network monitoring with Grafana and Prometheus](https://grafana.
+- [A beginner's guide to network monitoring with Grafana and Prometheus](https://grafana.com/blog/2022/01/19/a-beginners-guide-to-networ
