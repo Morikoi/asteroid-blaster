@@ -113,4 +113,7 @@ AWS provides multiple services on their platform:
 
 - [A beginner's guide to network monitoring with Grafana and Prometheus](https://grafana.com/blog/2022/01/19/a-beginners-guide-to-network-monitoring-with-grafana-and-prometheus/)
 
-### H
+### Honeycomb
+
+- [Website](https://www.honeycomb.io/)
+- [
