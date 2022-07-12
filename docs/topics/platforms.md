@@ -118,4 +118,7 @@ AWS provides multiple services on their platform:
 - [Website](https://www.honeycomb.io/)
 - [Documentation](https://docs.honeycomb.io/)
 
-#### Fa
+#### Facts
+
+- SaaS, free and paid tier. 
+- Honeycomb creat
