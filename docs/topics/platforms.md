@@ -116,4 +116,6 @@ AWS provides multiple services on their platform:
 ### Honeycomb
 
 - [Website](https://www.honeycomb.io/)
-- [
+- [Documentation](https://docs.honeycomb.io/)
+
+#### Fa
