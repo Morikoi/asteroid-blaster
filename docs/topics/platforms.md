@@ -121,4 +121,4 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - SaaS, free and paid tier. 
-- Honeycomb creat
+- Honeycomb created so-called [Beelines](https://docs.honeycomb.io
