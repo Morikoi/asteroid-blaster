@@ -121,4 +121,5 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - SaaS, free and paid tier. 
-- Honeycomb created so-called [Beelines](https://docs.honeycomb.io/getting-data-in/go/), small agents 
+- Honeycomb created so-called [Beelines](https://docs.honeycomb.io/getting-data-in/go/), small agents to send instrumentation data to the SaaS platform. 
+- Hon
