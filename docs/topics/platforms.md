@@ -122,4 +122,8 @@ AWS provides multiple services on their platform:
 
 - SaaS, free and paid tier. 
 - Honeycomb created so-called [Beelines](https://docs.honeycomb.io/getting-data-in/go/), small agents to send instrumentation data to the SaaS platform. 
-- Honeycomb [supports OpenTelemetry](https://docs.honeycomb.io/getting-data-in/opentelem
+- Honeycomb [supports OpenTelemetry](https://docs.honeycomb.io/getting-data-in/opentelemetry/).
+
+#### Hot Topics 
+
+- [Honeycomb's blog]
