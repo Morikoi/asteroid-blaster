@@ -126,4 +126,8 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Honeycomb's blog](https://www.honeycomb.io/blog/) is a wealth of knowledge and thought leadership 
+- [Honeycomb's blog](https://www.honeycomb.io/blog/) is a wealth of knowledge and thought leadership for o11y.
+
+### NewRelic 
+
+- [Website](https://new
