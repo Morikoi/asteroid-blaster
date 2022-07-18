@@ -126,4 +126,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Honeycomb's blog]
+- [Honeycomb's blog](https://www.honeycomb.io/blog/) is a wea
