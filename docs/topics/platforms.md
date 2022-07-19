@@ -130,4 +130,7 @@ AWS provides multiple services on their platform:
 
 ### NewRelic 
 
-- [Website](https://new
+- [Website](https://newrelic.com/)
+- [Documentation](https://docs.newrelic.com/)
+
+#
