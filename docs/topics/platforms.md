@@ -133,4 +133,7 @@ AWS provides multiple services on their platform:
 - [Website](https://newrelic.com/)
 - [Documentation](https://docs.newrelic.com/)
 
-#
+#### Facts
+
+- SaaS, free and paid tier. 
+- New
