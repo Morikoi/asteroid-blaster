@@ -136,4 +136,8 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - SaaS, free and paid tier. 
-- NewRelic acquired [Pixie for Kubernetes Observability](https://newrelic.com/platform/kuberne
+- NewRelic acquired [Pixie for Kubernetes Observability](https://newrelic.com/platform/kubernetes-pixie).
+
+#### Hot Topics 
+
+- Integrates with
