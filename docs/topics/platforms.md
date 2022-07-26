@@ -140,4 +140,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- Integrates with
+- Integrates with [OpenTelemetry](https://docs.newrelic.com/docs/m
