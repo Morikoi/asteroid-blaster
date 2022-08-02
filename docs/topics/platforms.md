@@ -140,4 +140,8 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- Integrates with [OpenTelemetry](https://docs.newrelic.com/docs/more-integrations/open-source-telemetry-integrations/opentelemetry/introduction-opentelemetry-new-relic
+- Integrates with [OpenTelemetry](https://docs.newrelic.com/docs/more-integrations/open-source-telemetry-integrations/opentelemetry/introduction-opentelemetry-new-relic/).
+
+### Nobl9
+
+- [Website](https://www.nobl9.co
