@@ -149,4 +149,4 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - Service Level Objective (SLO) platform. SaaS, paid tier. 
-- Initiators of [
+- Initiators of [SLOConf](https://www.sloconf.com/) and [OpenSLO](../col
