@@ -153,4 +153,6 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Integration with Prometheus](https://www.nobl
+- [Integration with Prometheus](https://www.nobl9.com/platform/integrations)
+
+### Opstrace 
