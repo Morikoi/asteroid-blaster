@@ -158,4 +158,8 @@ AWS provides multiple services on their platform:
 ### Opstrace 
 
 - [Website](https://opstrace.com/)
-- [Documenta
+- [Documentation](https://opstrace.com/docs)
+
+#### Facts
+
+- Observability D
