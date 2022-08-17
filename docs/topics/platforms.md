@@ -162,4 +162,5 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- Observability D
+- Observability Distribution, secure and multi-tenants 
+- [Acquired by 
