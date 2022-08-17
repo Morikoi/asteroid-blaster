@@ -163,4 +163,4 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - Observability Distribution, secure and multi-tenants 
-- [Acquired by 
+- [Acquired by GitLab](https://opstrace.com/blog/gitlab) in Decemb
