@@ -163,4 +163,5 @@ AWS provides multiple services on their platform:
 #### Facts
 
 - Observability Distribution, secure and multi-tenants 
-- [Acquired by GitLab](https://opstrace.com/blog/gitlab) in Decemb
+- [Acquired by GitLab](https://opstrace.com/blog/gitlab) in December 2021.
+- First demo in the [25. #EveryoneCanCo
