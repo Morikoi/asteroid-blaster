@@ -167,3 +167,5 @@ AWS provides multiple services on their platform:
 - First demo in the [25. #EveryoneCanContribute cafe](https://everyonecancontribute.com/post/2021-04-14-cafe-25-opstrace-observability/) in April 2021.
 
 #### Hot Topics 
+
+- [Integration milestones](https://gitl
