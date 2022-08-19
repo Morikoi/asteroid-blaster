@@ -164,4 +164,6 @@ AWS provides multiple services on their platform:
 
 - Observability Distribution, secure and multi-tenants 
 - [Acquired by GitLab](https://opstrace.com/blog/gitlab) in December 2021.
-- First demo in the [25. #EveryoneCanContribute cafe](https://everyonecancontribute.com/post/2021-04-14-cafe-25-opstrace-obser
+- First demo in the [25. #EveryoneCanContribute cafe](https://everyonecancontribute.com/post/2021-04-14-cafe-25-opstrace-observability/) in April 2021.
+
+#### Hot Topics 
