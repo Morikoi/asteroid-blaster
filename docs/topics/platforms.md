@@ -168,4 +168,5 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Integration milestones](https://gitl
+- [Integration milestones](https://gitlab.com/gitlab-org/opstrace/opstrace/-/milestones)
+
