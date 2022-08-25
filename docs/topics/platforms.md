@@ -177,4 +177,4 @@ AWS provides multiple services on their platform:
 
 #### Facts
 
-- Splunk was fo
+- Splunk was founded in 2003 and dominated the
