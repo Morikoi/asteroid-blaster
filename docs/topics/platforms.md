@@ -179,4 +179,6 @@ AWS provides multiple services on their platform:
 
 - Splunk was founded in 2003 and dominated the log collection market for many years. 
 
-#### Hot 
+#### Hot Topics 
+
+- [Splunk Observability](https://www.sp
