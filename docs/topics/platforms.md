@@ -181,4 +181,4 @@ AWS provides multiple services on their platform:
 
 #### Hot Topics 
 
-- [Splunk Observability](https://www.sp
+- [Splunk Observability](https://www.splunk.com/en_us/devops.html) 
