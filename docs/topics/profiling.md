@@ -4,4 +4,4 @@
 
 > Profiling is achieved by instrumenting either the program source code or its binary executable form using a tool called a profiler (or code profiler). Profilers may use a number of different techniques, such as event-based, statistical, instrumented, and simulation methods.
 
-Continuous profiling can help
+Continuous profiling can help you understand systems resource usage (CPU, memory, etc.),
