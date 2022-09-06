@@ -7,4 +7,4 @@
 Continuous profiling can help you understand systems resource usage (CPU, memory, etc.), identify performance bottlenecks, locate memory leaks and analyse the call stack of your applications. You can also use it as a method to track performance changes over time.
 
 ## Open Telemetry Profiling Efforts
-Within Open Telemetry, there is a working group who is working towards adding Profiling as a supported event type. For more details on the scope and vision che
+Within Open Telemetry, there is a working group who is working towards adding Profiling as a supported event type. For more details on the scope and vision check out the [OTel Profiling Vision OTEP](https://git
