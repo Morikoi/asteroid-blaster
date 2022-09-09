@@ -11,4 +11,4 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 ## Introductions
 
-- [Current state of Continuous Profilin
+- [Current state of Continuous Profiling](https://o11y.engineering/the-state-of-cont
