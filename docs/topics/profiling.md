@@ -18,4 +18,8 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 ### Datadog Continuous Profiler
 
 - [Website](https://www.datadoghq.com/product/code-profiling/)
-- [Documentation](https://docs.datadoghq.com
+- [Documentation](https://docs.datadoghq.com/tracing/profiler/)
+
+#### Facts
+
+- You can [connect t
