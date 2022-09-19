@@ -22,4 +22,8 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 #### Facts
 
-- You can [connect traces to profiling data](https://docs.datadoghq.com/tracing/profiler/#connect-traces-to-profiling-data). Learn more about [Tracing](../tr
+- You can [connect traces to profiling data](https://docs.datadoghq.com/tracing/profiler/#connect-traces-to-profiling-data). Learn more about [Tracing](../tracing)
+
+#### Hot Topics 
+
+- [How we wrote a Python profi
