@@ -31,4 +31,8 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 ### Google Cloud Profiler
 
 - [Website](https://cloud.google.com/profiler)
-- [Documentation](http
+- [Documentation](https://cloud.google.com/profiler/docs)
+
+#### Facts
+
+#### Hot Topi
