@@ -35,4 +35,6 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 #### Facts
 
-#### Hot Topi
+#### Hot Topics 
+
+- [Tutorial: Optimizing a Go app](https://
