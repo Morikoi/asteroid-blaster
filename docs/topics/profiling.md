@@ -37,4 +37,8 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 #### Hot Topics 
 
-- [Tutorial: Optimizing a Go app](https://cloud.google.com/profiler/docs/quickstart-go-app
+- [Tutorial: Optimizing a Go app](https://cloud.google.com/profiler/docs/quickstart-go-app)
+
+### Parca
+
+> From profiles to understanding. Open Sour
