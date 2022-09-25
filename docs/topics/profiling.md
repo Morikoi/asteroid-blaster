@@ -46,4 +46,6 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 - [Website](https://www.parca.dev/)
 - [Documentation](https://www.parca.dev/docs/overview)
 
-###
+#### Facts
+
+- Parca was open-source by [Polar Signals]
