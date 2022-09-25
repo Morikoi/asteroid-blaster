@@ -43,4 +43,5 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 > From profiles to understanding. Open Source Infrastructure-wide continuous profiling 
 
-- [We
+- [Website](https://www.parca.dev/)
+- [Docume
