@@ -41,4 +41,6 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 ### Parca
 
-> From profiles to understanding. Open Sour
+> From profiles to understanding. Open Source Infrastructure-wide continuous profiling 
+
+- [We
