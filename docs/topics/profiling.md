@@ -49,4 +49,6 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 #### Facts
 
 - Parca was open-source by [Polar Signals](https://www.polarsignals.com/) in 2021
-- Parca's old name was `Conprof` which can be seen in [the KubeCon NA 2021 talk](https://www.youtu
+- Parca's old name was `Conprof` which can be seen in [the KubeCon NA 2021 talk](https://www.youtube.com/watch?v=ficc6_6RYQk)
+
+#### Hot Topics 
