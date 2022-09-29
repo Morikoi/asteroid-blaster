@@ -53,4 +53,8 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 #### Hot Topics 
 
-- [Feature requests for the Parca agent](https://github.com/parca-dev/parca-agent/is
+- [Feature requests for the Parca agent](https://github.com/parca-dev/parca-agent/issues)
+
+### Pyroscope
+
+- [Website](https://pyroscope
