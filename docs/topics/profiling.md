@@ -57,4 +57,5 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 ### Pyroscope
 
-- [Website](https://pyroscope
+- [Website](https://pyroscope.io/)
+- [Documentation](https://pyroscope.io
