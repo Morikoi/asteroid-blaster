@@ -63,4 +63,7 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 #### Facts
 
-- [FlameQL](https://pyroscope.io/docs/flameql/) is the Pyrosco
+- [FlameQL](https://pyroscope.io/docs/flameql/) is the Pyroscope query language. 
+
+#### Hot Topics 
+- [Custom stora
