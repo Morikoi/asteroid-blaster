@@ -66,4 +66,8 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 - [FlameQL](https://pyroscope.io/docs/flameql/) is the Pyroscope query language. 
 
 #### Hot Topics 
-- [Custom storage engine design](https://pyroscope.io/docs
+- [Custom storage engine design](https://pyroscope.io/docs/storage-design/)
+
+#### Use Cases
+
+- [Continuo
