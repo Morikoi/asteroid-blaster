@@ -70,4 +70,4 @@ Within Open Telemetry, there is a working group who is working towards adding Pr
 
 #### Use Cases
 
-- [Continuous Profiling in Kubernetes Using Pyroscope](https://www.infracloud.io/blogs/continuous-profiling-kub
+- [Continuous Profiling in Kubernetes Using Pyroscope](https://www.infracloud.io/blogs/continuous-profiling-kubernetes-pyroscope/)
