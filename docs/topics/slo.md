@@ -1,1 +1,3 @@
-# Service Level Ob
+# Service Level Objective (SLO)
+
+Service Level Indicator (SLI
