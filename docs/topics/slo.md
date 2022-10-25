@@ -4,4 +4,6 @@ Service Level Indicator (SLI) defines the quantitative measure of a service, for
 
 Service Level Objective (SLO) defines the value, or a range of values, that is measured by an SLI. 
 
-Service Level Agreement (SLA) defines the implicit or explicit contract with users, and what happens w
+Service Level Agreement (SLA) defines the implicit or explicit contract with users, and what happens when the SLO is not met. 
+
+Learn more in the [Googl
