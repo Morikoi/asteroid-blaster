@@ -6,4 +6,6 @@ Service Level Objective (SLO) defines the value, or a range of values, that is m
 
 Service Level Agreement (SLA) defines the implicit or explicit contract with users, and what happens when the SLO is not met. 
 
-Learn more in the [Google SRE book chapter](https://sre.google/sre-
+Learn more in the [Google SRE book chapter](https://sre.google/sre-book/service-level-objectives/).
+
+## Overv
