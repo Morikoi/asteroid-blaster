@@ -17,4 +17,6 @@ Learn more in the [Google SRE book chapter](https://sre.google/sre-book/service-
 
 ### Pyrra
 
-> Making SLOs with Prometheus manageable, accessible, and easy to use f
+> Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! 
+
+- [Website](https://github.co
