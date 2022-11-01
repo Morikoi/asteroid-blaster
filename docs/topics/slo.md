@@ -23,4 +23,4 @@ Learn more in the [Google SRE book chapter](https://sre.google/sre-book/service-
 
 #### Facts
 
-- Matthias Loibl
+- Matthias Loibl's SLO calculator became a community OSS pr
