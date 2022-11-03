@@ -23,4 +23,11 @@ Learn more in the [Google SRE book chapter](https://sre.google/sre-book/service-
 
 #### Facts
 
-- Matthias Loibl's SLO calculator became a community OSS pr
+- Matthias Loibl's SLO calculator became a community OSS project in 2021.
+
+#### Hot Topics 
+
+
+### SLOth
+
+> 
