@@ -30,4 +30,4 @@ Learn more in the [Google SRE book chapter](https://sre.google/sre-book/service-
 
 ### SLOth
 
-> 
+> Easy and simple Prometheus SLO (service level o
