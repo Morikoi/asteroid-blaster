@@ -30,4 +30,6 @@ Learn more in the [Google SRE book chapter](https://sre.google/sre-book/service-
 
 ### SLOth
 
-> Easy and simple Prometheus SLO (service level o
+> Easy and simple Prometheus SLO (service level objectives) generator
+
+- [Website](https://github.com/slok/slo
