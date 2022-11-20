@@ -6,4 +6,4 @@ Distributed tracing workflows and OSS implementations have made tracing more pop
 
 ## History
 
-- 2016: [OpenCensus](https://opencensus.io/) and [OpenTracing](http
+- 2016: [OpenCensus](https://opencensus.io/) and [OpenTracing](https://opentracing.io/specification/) as specification and tools.
