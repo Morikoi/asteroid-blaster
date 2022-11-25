@@ -8,4 +8,4 @@ Distributed tracing workflows and OSS implementations have made tracing more pop
 
 - 2016: [OpenCensus](https://opencensus.io/) and [OpenTracing](https://opentracing.io/specification/) as specification and tools.
     - [Tracers](https://opentracing.io/docs/overview/tracers/): ZipKin, Jaeger, Datadog, Lightstep.
-- 2019: OpenTelemetry [merges](https://
+- 2019: OpenTelemetry [merges](https://opensource.googleblog.com/2019/05/ope
