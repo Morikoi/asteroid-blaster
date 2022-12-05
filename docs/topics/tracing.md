@@ -10,4 +10,5 @@ Distributed tracing workflows and OSS implementations have made tracing more pop
     - [Tracers](https://opentracing.io/docs/overview/tracers/): ZipKin, Jaeger, Datadog, Lightstep.
 - 2019: OpenTelemetry [merges](https://opensource.googleblog.com/2019/05/opentelemetry-merger-of-opencensus-and.html) OpenTracing and OpenCensus
     - [CNCF TAG Observability](https://github.com/cncf/tag-observability): [OpenTelemetry project](https://www.cncf.io/blog/2019/05/21/a-brief-history-of-opentelemetry-so-far/) starts with tracing.
-- 2020: Grafana announces Tem
+- 2020: Grafana announces Tempo.
+- 2021: OpenTelemetry adds metrics and logs [
