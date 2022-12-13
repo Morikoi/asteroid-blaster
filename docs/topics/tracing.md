@@ -13,4 +13,6 @@ Distributed tracing workflows and OSS implementations have made tracing more pop
 - 2020: Grafana announces Tempo.
 - 2021: OpenTelemetry adds metrics and logs [specifications](https://github.com/open-telemetry/opentelemetry-specification/tree/main/specification).
 - 2021: OpenTelemetry becomes [CNCF Incubating project](https://www.cncf.io/blog/2021/08/26/opentelemetry-becomes-a-cncf-incubating-project/). 
-- 2022: [OpenTracing deprecation](https://github.com/opentracing/specification/iss
+- 2022: [OpenTracing deprecation](https://github.com/opentracing/specification/issues/163).
+
+Learn more about [OpenTelemetry in t
