@@ -15,4 +15,4 @@ Distributed tracing workflows and OSS implementations have made tracing more pop
 - 2021: OpenTelemetry becomes [CNCF Incubating project](https://www.cncf.io/blog/2021/08/26/opentelemetry-becomes-a-cncf-incubating-project/). 
 - 2022: [OpenTracing deprecation](https://github.com/opentracing/specification/issues/163).
 
-Learn more about [OpenTelemetry in t
+Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-specs#opentel
