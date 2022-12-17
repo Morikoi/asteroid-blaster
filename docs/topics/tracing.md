@@ -21,4 +21,8 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 
 ### Jaeger 
 
-- [Website](ht
+- [Website](https://www.jaegertracing.io/)
+
+#### Facts
+
+- Open
