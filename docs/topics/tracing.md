@@ -26,4 +26,4 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 #### Facts
 
 - Open source, end-to-end distributed tracing.
-- [Jaeger expo
+- [Jaeger exposes metrics](https://www.jaegertracing.
