@@ -26,4 +26,6 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 #### Facts
 
 - Open source, end-to-end distributed tracing.
-- [Jaeger exposes metrics](https://www.jaegertracing.io/docs/1.30/monitoring/) for [Prometheus](../metr
+- [Jaeger exposes metrics](https://www.jaegertracing.io/docs/1.30/monitoring/) for [Prometheus](../metrics#prometheus) monitoring.
+
+#### Hot Topics 
