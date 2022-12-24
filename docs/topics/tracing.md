@@ -29,3 +29,7 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 - [Jaeger exposes metrics](https://www.jaegertracing.io/docs/1.30/monitoring/) for [Prometheus](../metrics#prometheus) monitoring.
 
 #### Hot Topics 
+
+### Grafana Tempo 
+
+- [Website](https:
