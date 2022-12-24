@@ -32,4 +32,8 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 
 ### Grafana Tempo 
 
-- [Website](https:
+- [Website](https://grafana.com/oss/tempo/)
+
+#### Facts
+
+- Open s
