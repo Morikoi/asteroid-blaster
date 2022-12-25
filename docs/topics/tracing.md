@@ -36,4 +36,4 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 
 #### Facts
 
-- Open s
+- Open source, easy-to-use, and high-scale distri
