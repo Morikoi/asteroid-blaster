@@ -36,4 +36,10 @@ Learn more about [OpenTelemetry in the Collections/Spec topic](../collections-sp
 
 #### Facts
 
-- Open source, easy-to-use, and high-scale distri
+- Open source, easy-to-use, and high-scale distributed tracing backend.
+
+#### Hot Topics 
+
+
+
+
