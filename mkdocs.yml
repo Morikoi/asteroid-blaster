@@ -4,4 +4,6 @@ site_description: Learn Observability - tools, resources, newsletters, workshops
 site_author: Michael Friedrich
 copyright: 'CC BY-SA 4.0; <a href="/privacy">Privacy Policy</a>'
 
-# Show repository mark
+# Show repository marker in the upper right corner 
+repo_name: o11y.love
+r
