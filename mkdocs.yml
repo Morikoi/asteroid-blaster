@@ -12,4 +12,7 @@ repo_url: https://gitlab.com/everyonecancontribute/observability/o11y.love
 edit_uri: blob/main/docs/
 
 theme:
-  name: mater
+  name: material
+  language: en 
+  font:
+    code
