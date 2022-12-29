@@ -8,4 +8,8 @@ copyright: 'CC BY-SA 4.0; <a href="/privacy">Privacy Policy</a>'
 repo_name: o11y.love
 repo_url: https://gitlab.com/everyonecancontribute/observability/o11y.love
 
-# main b
+# main branch
+edit_uri: blob/main/docs/
+
+theme:
+  name: mater
