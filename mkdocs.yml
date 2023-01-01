@@ -16,4 +16,6 @@ theme:
   language: en 
   font:
     code: Roboto Mono  
-    text: Roboto # required fo
+    text: Roboto # required for social cards 
+  icon:
+    logo: material/heart-
