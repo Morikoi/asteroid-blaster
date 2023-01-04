@@ -20,3 +20,7 @@ theme:
   icon:
     logo: material/heart-pulse
   favicon: assets/images/heart-pulse.svg   
+
+  features:
+    - tabs
+    - navigation.ta
