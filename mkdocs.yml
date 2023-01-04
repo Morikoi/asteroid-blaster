@@ -18,4 +18,5 @@ theme:
     code: Roboto Mono  
     text: Roboto # required for social cards 
   icon:
-    logo: material/heart-
+    logo: material/heart-pulse
+  favicon: assets/images/heart-pulse.svg   
