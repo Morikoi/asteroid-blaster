@@ -23,4 +23,6 @@ theme:
 
   features:
     - tabs
-    - navigation.ta
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navig
