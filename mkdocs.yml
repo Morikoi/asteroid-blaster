@@ -25,4 +25,6 @@ theme:
     - tabs
     - navigation.tabs
     - navigation.tabs.sticky
-    - navig
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
