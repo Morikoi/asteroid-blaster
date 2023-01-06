@@ -31,4 +31,6 @@ theme:
 
   # Support dark/light themes 
   palette:
-    -
+    - scheme: default
+      primary: indigo
+      accen
