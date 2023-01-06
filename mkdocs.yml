@@ -33,4 +33,6 @@ theme:
   palette:
     - scheme: default
       primary: indigo
-      accen
+      accent: indigo
+      toggle:
+        icon: material
