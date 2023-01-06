@@ -28,3 +28,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.top
+
+  # Support dark/light themes 
+  palette:
+    -
