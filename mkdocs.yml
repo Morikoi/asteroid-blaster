@@ -35,4 +35,5 @@ theme:
       primary: indigo
       accent: indigo
       toggle:
-        icon: material
+        icon: material/lightbulb-outline
+        name: Switch to dark mod
