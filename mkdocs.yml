@@ -36,4 +36,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/lightbulb-outline
-        name: Switch to dark mod
+        name: Switch to dark mode
+    - scheme: slate
+      primary: purple
+      accen
