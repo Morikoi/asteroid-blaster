@@ -39,4 +39,6 @@ theme:
         name: Switch to dark mode
     - scheme: slate
       primary: purple
-      accen
+      accent: purple
+      toggle:
+        icon: material/ligh
