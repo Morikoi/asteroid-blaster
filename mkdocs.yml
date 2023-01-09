@@ -41,4 +41,5 @@ theme:
       primary: purple
       accent: purple
       toggle:
-        icon: material/ligh
+        icon: material/lightbulb
+        name: Switch to light mode
