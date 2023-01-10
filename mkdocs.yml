@@ -52,4 +52,6 @@ extra_javascript:
   - javascripts/extra.js  
 
 extra:
-  a
+  analytics:
+    provider: google
+    property: G-195X848
