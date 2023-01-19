@@ -69,4 +69,7 @@ extra:
       link: https://twitter.com/dnsmichi
     - icon: fontawesome/solid/paper-plane
       link: /privacy
-      name: Priva
+      name: Privacy Policy
+
+# Extensions
+markdown_extensions:
