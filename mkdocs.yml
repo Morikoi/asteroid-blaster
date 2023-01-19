@@ -73,3 +73,6 @@ extra:
 
 # Extensions
 markdown_extensions:
+  - attr_list  
+  - codehilite:
+      guess_lang: 
