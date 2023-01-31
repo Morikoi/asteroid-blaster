@@ -75,4 +75,8 @@ extra:
 markdown_extensions:
   - attr_list  
   - codehilite:
-      guess_lang: 
+      guess_lang: true
+  - toc:
+      permalink: true
+  - admonition
+  - 
