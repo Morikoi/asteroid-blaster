@@ -79,4 +79,5 @@ markdown_extensions:
   - toc:
       permalink: true
   - admonition
-  - 
+  - markdown.extensions.toc:
+      permalink: tru
