@@ -80,4 +80,6 @@ markdown_extensions:
       permalink: true
   - admonition
   - markdown.extensions.toc:
-      permalink: tru
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: tru
