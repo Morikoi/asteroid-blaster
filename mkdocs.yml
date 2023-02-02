@@ -82,4 +82,5 @@ markdown_extensions:
   - markdown.extensions.toc:
       permalink: true
   - pymdownx.highlight:
-      anchor_linenums: tru
+      anchor_linenums: true
+  - pymdownx.magiclink # render all URLs
