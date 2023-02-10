@@ -87,4 +87,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences      
-  - 
+  - pymdownx.emoji:
+      emoji_index: !!python/na
