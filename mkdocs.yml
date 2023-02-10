@@ -85,4 +85,6 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.magiclink # render all URLs      
   - pymdownx.inlinehilite
-  - pymdownx.sn
+  - pymdownx.snippets
+  - pymdownx.superfences      
+  - 
