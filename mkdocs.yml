@@ -92,4 +92,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # Plugins
-# htt
+# https://squidfunk.github.io/mkdocs-material/setup/setti
