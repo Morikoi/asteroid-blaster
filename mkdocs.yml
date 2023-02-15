@@ -95,3 +95,9 @@ markdown_extensions:
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/ 
 plugins:
   - search 
+  - social 
+
+# Navigation
+nav:
+  - Home:
+    - Int
