@@ -106,4 +106,5 @@ nav:
     - Learning Resources: learning-resources.md 
     
   - Topics:
-    
+    - Introduction: 'topics/index.md'
+    - 'Collections/S
