@@ -109,4 +109,5 @@ nav:
     - Introduction: 'topics/index.md'
     - 'Collections/Specs': 'topics/collections-specs.md'
     - Metrics: 'topics/metrics.md'
-    - Tracing: 
+    - Tracing: 'topics/tracing.md'
+    - 'Logs/Events': 'topics
