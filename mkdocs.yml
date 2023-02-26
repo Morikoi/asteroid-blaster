@@ -110,4 +110,5 @@ nav:
     - 'Collections/Specs': 'topics/collections-specs.md'
     - Metrics: 'topics/metrics.md'
     - Tracing: 'topics/tracing.md'
-    - 'Logs/Events': 'topics
+    - 'Logs/Events': 'topics/logs-events.md'
+    - Profiling: 'topics/profilin
