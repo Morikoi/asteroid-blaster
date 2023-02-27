@@ -112,4 +112,5 @@ nav:
     - Tracing: 'topics/tracing.md'
     - 'Logs/Events': 'topics/logs-events.md'
     - Profiling: 'topics/profiling.md'
-    - Chaos Engineering: 'topics/chaos-e
+    - Chaos Engineering: 'topics/chaos-engineering.md'
+    - Open Telementry: 'topi
