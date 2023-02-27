@@ -113,4 +113,6 @@ nav:
     - 'Logs/Events': 'topics/logs-events.md'
     - Profiling: 'topics/profiling.md'
     - Chaos Engineering: 'topics/chaos-engineering.md'
-    - Open Telementry: 'topi
+    - Open Telementry: 'topics/opentelemetry.md'
+    - eBPF: 'topics/ebpf.md'
+ 
