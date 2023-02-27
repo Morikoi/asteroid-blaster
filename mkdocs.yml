@@ -111,4 +111,5 @@ nav:
     - Metrics: 'topics/metrics.md'
     - Tracing: 'topics/tracing.md'
     - 'Logs/Events': 'topics/logs-events.md'
-    - Profiling: 'topics/profilin
+    - Profiling: 'topics/profiling.md'
+    - Chaos Engineering: 'topics/chaos-e
