@@ -116,4 +116,5 @@ nav:
     - Open Telementry: 'topics/opentelemetry.md'
     - eBPF: 'topics/ebpf.md'
     - Platforms: 'topics/platforms.md'
-    - Site Reliabil
+    - Site Reliability Engineering (SRE): 'topics/sre.md'
+    - Service 
