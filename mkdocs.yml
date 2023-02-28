@@ -115,4 +115,5 @@ nav:
     - Chaos Engineering: 'topics/chaos-engineering.md'
     - Open Telementry: 'topics/opentelemetry.md'
     - eBPF: 'topics/ebpf.md'
- 
+    - Platforms: 'topics/platforms.md'
+    - Site Reliabil
