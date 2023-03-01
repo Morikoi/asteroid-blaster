@@ -118,4 +118,6 @@ nav:
     - Platforms: 'topics/platforms.md'
     - Site Reliability Engineering (SRE): 'topics/sre.md'
     - Service Level Objective (SLO): 'topics/slo.md'
-    #- Kubernetes: 'topics/
+    #- Kubernetes: 'topics/kubernetes.md'
+    #- Dashboards: 'topics/dashboards.md'
+  
