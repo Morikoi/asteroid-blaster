@@ -122,4 +122,6 @@ nav:
     #- Dashboards: 'topics/dashboards.md'
     #- CLI: 'topics/cli.md'
   - Use cases: 
-    - Introduct
+    - Introduction: use-cases.md
+  - Learning Resources: 
+    - Introduc
