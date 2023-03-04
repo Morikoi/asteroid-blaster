@@ -1,2 +1,5 @@
 mkdocs
-mkdocs-mater
+mkdocs-material
+mkdocs-material-extensions
+pillow
+cairosvg
